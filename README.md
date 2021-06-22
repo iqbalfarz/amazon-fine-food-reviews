@@ -1,6 +1,7 @@
 # amazon-fine-food-reviews
 Amazon Fine Food Reviews using Machine Learning and NLP
 
+NOTE: [Click to get dataset](https://drive.google.com/file/d/11zzpZ0YnaOVMGQSYeNtvK_In-PNsxMW1/view?usp=sharing)
 
 ## Problem Statement/Objective
 Find polarity of reviews. Classifying the reviews as positive or negative.
